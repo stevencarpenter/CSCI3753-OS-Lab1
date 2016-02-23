@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Steven Carpenter
 PA1
 
@@ -18,3 +19,7 @@ syscalls.h -- located in include/linux/ [this file declares the syscalls and can
 syslog -- located in var/log/ [this file contains logs of all syscalls]
 
 to compile the test files cd to the directory and run $ gcc -o testX testX.c where X is 1 or 2 depending on the test to be compiled.
+=======
+# CSCI3753-OS-Lab1
+Files for operating systems lab 1
+>>>>>>> 12612b5b99694df198d13b33c00845e7ec835668
